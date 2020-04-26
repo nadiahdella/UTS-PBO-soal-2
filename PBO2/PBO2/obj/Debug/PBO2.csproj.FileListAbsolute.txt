@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\bin\Debug\PBO2.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\bin\Debug\PBO2.exe
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\bin\Debug\PBO2.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\obj\Debug\PBO2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\obj\Debug\PBO2.exe
+c:\users\admin\documents\visual studio 2012\Projects\PBO2\PBO2\obj\Debug\PBO2.pdb
